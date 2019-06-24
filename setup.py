@@ -9,5 +9,6 @@ setup(
     url="https://github.com/Degreane/ppot",
     name="ppot",
     version="0.1",
-    packages=["ppot"]
+    packages=["ppot"],
+    zip_safe=False
 )
